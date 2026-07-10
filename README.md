@@ -1,7 +1,7 @@
 ## Hi I'm ryotaro-nagahara 👋
 
-- backend, infrastructure
-- CFD
+- working on backend, infrastructure development
+- studying CFD
 
 [![My Skills](https://skillicons.dev/icons?i=c,js,ts,python,go,rails,mongodb,aws,gcp,docker,kubernetes,linux)](https://skillicons.dev)
 
